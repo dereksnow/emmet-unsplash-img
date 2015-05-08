@@ -1,6 +1,6 @@
 # Unsplash placeholder for Emmet
 
-> [Emmet](https://emmet.io) - This emmet snippet will insert an img tag with a placeholder image from [Unsplash.it](https://unsplash.it) in your code.
+[Emmet](https://emmet.io) - This emmet snippet will insert an img tag with a placeholder image from [Unsplash.it](https://unsplash.it) in your code.
 
 ## Install
 
