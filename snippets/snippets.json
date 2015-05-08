@@ -1,0 +1,8 @@
+{
+	"html": {
+		"filters": "html",
+		"snippets": {
+			"unsp": "<img src=\"http://unsplash.it/${1:param}\"${2: alt=\"${3:alt-text}\"}>${4}"
+		}
+	}
+}
